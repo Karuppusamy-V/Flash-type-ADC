@@ -19,21 +19,26 @@ And Priority encoder has been interfaced to translate analog or linear signals i
 The main advantages are the construction is simple and easier to design and it is the fastest type of ADC because it produces an equivalent digital output for a corresponding input in no time and time required for the typical conversion is less.
 2.	IMPLEMENTED CIRCUIT
 
+![image](https://user-images.githubusercontent.com/105380792/194702868-3dc86d75-9577-4900-b1ed-0155490eac76.png)
+![image](https://user-images.githubusercontent.com/105380792/194702877-585921a5-3497-4916-aed5-f7d616e29eed.png)
 
 
 
 
  Fig1 : Flash type ADC Converter
-       3.IMPLEMENTED WAVEFORMS
-       ![image](https://user-images.githubusercontent.com/105380792/194702760-ff36ef58-4baf-4c98-917f-6cc8e673e66b.png)
+ 3.IMPLEMENTED WAVEFORMS
+ ![image](https://user-images.githubusercontent.com/105380792/194702890-866187bd-9fca-4da4-b38e-223f7b218026.png)
 
+     
 
  Fig2 : Reference circuit input waveform
- ![image](https://user-images.githubusercontent.com/105380792/194702789-019fb02e-bb2e-4c3c-b9bf-6c1a567a1120.png)
- ![image](https://user-images.githubusercontent.com/105380792/194702812-e0b8a8c9-f7c0-4671-bc67-7606da5c4c8e.png)
-![image](https://user-images.githubusercontent.com/105380792/194702819-1bc42633-8984-4330-843b-d614fb275c1a.png)
+ ![image](https://user-images.githubusercontent.com/105380792/194702912-d8bd4c06-d354-46cf-bf3b-c37909946c4a.png)
+![image](https://user-images.githubusercontent.com/105380792/194702931-3013b35d-5ec6-44e3-86bc-42434072747f.png)
+![image](https://user-images.githubusercontent.com/105380792/194702941-f0230bb9-9cd0-4e6a-abc9-8f3953896c7f.png)
 
-     Fig3 : Reference circuit 3-bit output digital waveform
+
+ 
+ Fig3 : Reference circuit 3-bit output digital waveform
 
 References :
 [1]	Mishra, S., Vidyarthi, A. and Akashe, S., 2013, April. A novel folding technique for 3 bit flash adc in nanoscale. In 2013 Third International Conference on Advanced Computing and Communication Technologies (ACCT) (pp. 307-311). IEEE.
