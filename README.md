@@ -2,7 +2,7 @@
 It is the Flash type Analog signals into digital converter
 Flash Type ADC
 Mr.V.Karuppusamy
-(karuppusamy.ec21@bitsathy.ac.in)
+
 Bannari Amman Institute of Technology
  08 October 2022
 
