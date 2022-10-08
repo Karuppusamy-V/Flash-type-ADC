@@ -19,7 +19,7 @@ And Priority encoder has been interfaced to translate analog or linear signals i
 The main advantages are the construction is simple and easier to design and it is the fastest type of ADC because it produces an equivalent digital output for a corresponding input in no time and time required for the typical conversion is less.
 2.	IMPLEMENTED CIRCUIT
 
-![image](https://user-images.githubusercontent.com/105380792/194702868-3dc86d75-9577-4900-b1ed-0155490eac76.png)
+![image](https://user-images.githubusercontent.com/105380792/194703412-98825997-b0ad-42eb-9dce-3e8048106d0f.png)
 ![image](https://user-images.githubusercontent.com/105380792/194702877-585921a5-3497-4916-aed5-f7d616e29eed.png)
 
 
